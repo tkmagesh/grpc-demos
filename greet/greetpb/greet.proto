@@ -1,6 +1,6 @@
 syntax = "proto3";
 
 package greetpb;
-option go_package="greet/greetpb";
+option go_package="github.com/tkmagesh/grpc-demos/greet/greetpb";
 
 service GreeterService{}

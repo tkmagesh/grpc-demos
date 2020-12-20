@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"grpc-demos/greet/greetpb/greetpb"
 	"log"
 	"net"
+
+	"github.com/tkmagesh/grpc-demos/greet/greetpb/greetpb"
 
 	"google.golang.org/grpc"
 )
